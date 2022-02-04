@@ -1,4 +1,9 @@
-# Checklist Sequelize
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height='100'/>
+<h1>Checklist Sequelize</h1>
+</div>
+
+
 
 ## Sumário
 
