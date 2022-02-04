@@ -15,9 +15,8 @@
 
 
 # Objetivo 
-~~~bash
-O objetivo desse checklist é servir como um documento de consulta para facilitar na elaboração de aplicações com o sequelize
-~~~
+
+O objetivo desse checklist é servir como um documento de consulta para facilitar na elaboração de aplicações com o sequelize.
 <br>
 
 # Guia
@@ -280,5 +279,3 @@ $ npx sequelize db:seed:all
 ~~~bash
 $ npx sequelize db:seed:undo:all
 ~~~
-
-Link: https://github.com/tryber/Trybe-CheatSheets/blob/master/backend/sequelize/setup/README.md
